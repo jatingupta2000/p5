@@ -1,0 +1,8 @@
+html, body {
+ background-color:black; margin: 0;
+  padding: 0;
+}
+canvas {
+ padding-left:40%; display: block;
+}
+h1{color:yellow;}
